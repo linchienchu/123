@@ -1,7 +1,6 @@
 Ai
 B
 
-A
 
 haha
 
